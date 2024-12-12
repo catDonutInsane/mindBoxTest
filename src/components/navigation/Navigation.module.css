@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 500px;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-top: none;
+}
+.pages{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.clear_completed_button{
+    cursor: pointer;
+}
